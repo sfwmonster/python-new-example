@@ -1,3 +1,7 @@
 #!/usr/bin/python3
 
-print("Merhaba!")
+def main(msg):
+    print(msg)
+
+
+main("Naberr")
